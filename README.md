@@ -1,4 +1,4 @@
-## The observation diary of bug
+## The observation diary of bugs
 
 每个人或多或少都有一些各种各样的无聊怪癖，它毫无意义，但是又充满生命力，仿佛在帮助自己对抗着人生的苦闷。
 
